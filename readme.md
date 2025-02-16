@@ -15,7 +15,7 @@
 
 
 ## :sassy_man:  About me
-- :technologist: I am  Trainee Salesforce Developer.
+- :technologist: Salesforce Developer.
 
 <br>
 <br>
